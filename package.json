@@ -110,6 +110,8 @@
     "webpack": "^5.95.0"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.67.1",
+    "@tanstack/react-query-devtools": "^5.67.1",
     "bpmn-moddle": "^9.0.1",
     "diagram-js": "^15.2.4",
     "diagram-js-direct-editing": "^3.2.0",
